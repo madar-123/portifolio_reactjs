@@ -1,38 +1,403 @@
-.App {
+/*home start*/
+body{
+  background-image: url(./container/img/bg/23.jpg);
+  background-size: cover;
+}
+nav ul li{
+  display: inline;
+  margin: 30px;
+  text-transform: capitalize;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-decoration:line-through black solid 5px;
+}
+nav ul li:hover{
+  text-decoration: overline white;
+  cursor: pointer;
+}
+.ho{
+  margin-left: 55%;
+  color: aliceblue;
+  text-decoration:none;
+}
+#ho{
+  color:aliceblue;
+  text-decoration: none;
+}
+.App{
+  background-image: url(./container/img/bg/bg3.jpg);
+  margin: 10px;
+  border-radius: 20px;
+  border: solid wheat 1px;
+  padding: 50px;
+}
+#info{
+  float: inline-end;
+  margin-top: 35px;
+  margin-right: 23%;
+  padding: auto;
+}
+#Iam{
+  margin: 50px 0px 0px;
+  color:aqua;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  padding: auto;
+}
+#h1{
+  margin: 0px 0px 0px;
+  color: aqua;
+  font-size: 4em;
+  font-family: 'Times New Roman', Times, serif;
+}
+#h2{
+  margin: auto;
+  font-size: 3em;
+  color: aqua;
+  font-family: 'Times New Roman', Times, serif;
+}
+.img1{
+  width: 25%;
+  margin-left: 20%;
+  border-radius: 50%;
+  padding: 20px 10px;
+  margin-top: 42px;
+  border-left: solid grey 5px;
+  border-right: solid gray 5px;
+}
+#git{
+  padding: 10px;
+  font-size: 50px;
+  margin-top: 20px;
+  color: black;
+}
+#git:hover{
+  color: aqua;
+}
+#li{
+  padding: 10px;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-left: 10px;
+  color: black;
+}
+#li:hover{
+  color: aqua;
+}
+#in{
+  padding: 10px;
+  margin-left: 10px;
+  font-size: 50px;
+  color: black;
+  margin-top: 20px;
+}
+#in:hover{
+  color: aqua;
+}
+#fa{
+  padding: 10px;
+  font-size: 50px;
+  color: black;
+  margin-top: 20px;
+}
+#fa:hover{
+  color: aqua;
+}
+#hb1{
+  width: 50%;
+  margin-left: 80px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 50px;
+  border: solid blue;
+  font-family: 'Times New Roman', Times, serif;
+}
+#hb1:hover{
+  border: dashed wheat;
+}
+/*home end*/
+/*project start*/
+#p1{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 20px 40px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/projects/virtual\ intership.jpeg);
+  cursor: pointer;
+}
+#p1:hover{
+  border: solid black 5px;
+}
+#p2{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 20px 40px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/projects/donor.jpeg);
+  cursor: pointer;
+
+}
+#p2:hover{
+  border: solid black 5px;
+}
+#p3{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 20px 40px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/projects/home.png);
+  cursor: pointer;
+
+}
+#p3:hover{
+  border: solid black 5px;
+}
+/*project end*/
+/*certificate start*/
+#c1{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 45px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/virtual\ intership.jpg);
+  cursor: pointer;
+
+}
+#c1:hover{
+  border: solid black 5px;
+}
+#c2{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 30px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/fronted\ develop.jpg);
+  cursor: pointer;
+
+}
+#c2:hover{
+  border: solid black 5px;
+}
+#c3{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 30px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/cybersecurity.jpg);
+  cursor: pointer;
+}
+#c3:hover{
+  border: solid black 5px;
+}
+#c4{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 30px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/ai\ ml.jpg);
+  cursor: pointer;
+}
+#c4:hover{
+  border: solid black 5px;
+}
+#c5{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 45px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/blue\ intelligence.jpg);
+  cursor: pointer;
+  
+}
+#c5:hover{
+  border: solid black 5px;
+}
+#c6{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 30px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/nextwave.jpg);
+  cursor: pointer;
+}
+#c6:hover{
+  border: solid black 5px;
+}
+#c7{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 30px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/google.jpg);
+  cursor: pointer;
+}
+#c7:hover{
+  border: solid black 5px;
+}
+#c8{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 30px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/forninet.jpg);
+  cursor: pointer;
+}
+#c8:hover{
+  border: solid black 5px;
+}
+/*certificate end*/
+
+/*about start*/
+.img2{
+  width: 32%;
+  border-radius: 50px;
+  margin-left: 15px;
+  margin-top: 25px;
+  padding: 20px 10px;
+  border-bottom: double gainsboro 5px;
+  border-top: double gainsboro 5px;
+  float: inline-start;
+}
+.des{
+  float: inline-start;
+  width: 60%;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 50px;
+  border: solid greenyellow 1px;
+  background-image:linear-gradient(180deg,black,darkblue);
+  padding: 20px 30px;
+  font-family:'Times New Roman', Times, serif;
+  color:grey;
+}
+#b{
+  color: azure;
+}
+#click{
+  color:bisque;
+  text-decoration: none;
+}
+#mark{
+  padding: 0px 10px;
+  border-radius: 50px;
+}
+/*about end*/
+
+/*Skills start*/
+#front{
+  margin: 5px 20px;
+  width: 50%;
+  float: inline-start;
   text-align: center;
+  border: solid gray 1px;
+  border-radius: 50px;
+  padding: 15px 0px;
+  margin-top: 30px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#front:hover{
+  border: dotted blue;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#sh1{
+  font-size: 50px;
+  text-transform: capitalize;
+  color: aliceblue;
+  margin: auto;
+  padding: auto;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#html{
+  width: 20%;
 }
-
-.App-link {
-  color: #61dafb;
+#css{
+  width: 20%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#js{
+  width: 20%;
 }
+#boot{
+  width: 20%;
+}
+#react{
+  width: 20%;
+}
+#back{
+  float: inline-start;
+  width: 43%;
+  padding: 20px;
+  text-align: center;
+  border: solid gray 1px;
+  border-radius: 50px;
+  margin-top: 30px;
+}
+#back:hover{
+  border: dotted red;
+}
+#sh2{
+  font-size: 50px;
+  text-transform: capitalize;
+  color: aliceblue;
+  margin: auto;
+  padding: auto;
+}
+#java{
+  width: 20%;
+  margin: 0px 15px;
+}
+#python{
+  width: 20%;
+  margin: 0px 15px;
+}
+#c{
+  width: 20%;
+  margin: 0px 15px;
+}
+#dbms{
+  width: 20%;
+  margin: 0px 10px;
+}
+#source{
+  text-align: center;
+  float: inline-end;
+  width: 50%;
+  border: solid gray 1px;
+  border-radius: 50px;
+  margin-right: 25%;
+  margin-top: 30px;
+}
+#source:hover{
+  border: dotted black;
+}
+#sh3{
+  font-size: 50px;
+  text-transform: capitalize;
+  color: aliceblue;
+  margin: auto;
+  padding: auto;
+}
+#gi{
+  width: 40%;
+  margin-top: -3%;
+}
+/*Skills end*/
