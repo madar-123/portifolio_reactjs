@@ -10,6 +10,8 @@ function cer(){
     <a href="https://drive.google.com/file/d/1K6C4icPNNMecLj_gu7UZYtbr47wSCFjw/view?usp=drive_link"><button id="c6"></button></a>
     <a href="https://drive.google.com/file/d/1JxUPLsncgWomfQU_tB5qEChyGe0GVWf3/view?usp=drive_link"><button id="c7"></button></a>
     <a href="https://drive.google.com/file/d/1JLlkznyboNM4eYnHQsxWrMKQi8wwcwuh/view?usp=drive_link"><button id="c8"></button></a>
+    <a href="https://drive.google.com/file/d/1OgShFeStsRE3k9VKQyQb49MN8aDgkBcC/view?usp=sharing"><button id="c9"></button></a>
+    <a href="https://drive.google.com/file/d/1Oy5SJXV0w_iRHML6OSdokLD-gVwSG9zE/view?usp=drivesdk"><button id="c10"></button></a>
     
     </div>
     );
