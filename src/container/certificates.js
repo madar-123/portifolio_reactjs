@@ -11,7 +11,8 @@ function cer(){
     <a href="https://drive.google.com/file/d/1JxUPLsncgWomfQU_tB5qEChyGe0GVWf3/view?usp=drive_link"><button id="c7"></button></a>
     <a href="https://drive.google.com/file/d/1JLlkznyboNM4eYnHQsxWrMKQi8wwcwuh/view?usp=drive_link"><button id="c8"></button></a>
     <a href="https://drive.google.com/file/d/1OgShFeStsRE3k9VKQyQb49MN8aDgkBcC/view?usp=sharing"><button id="c9"></button></a>
-    <a href="https://drive.google.com/file/d/1Oy5SJXV0w_iRHML6OSdokLD-gVwSG9zE/view?usp=drivesdk"><button id="c10"></button></a>
+    <a href="https://drive.google.com/file/d/1FUQql_0E6eQsxxIALIxyPLZDOiwYjaKx/view?usp=sharing"><button id="c10"></button></a>
+    <a href="https://drive.google.com/file/d/1Oy5SJXV0w_iRHML6OSdokLD-gVwSG9zE/view?usp=drivesdk"><button id="c11"></button></a>
     
     </div>
     );

@@ -287,10 +287,23 @@ nav ul li:hover{
   margin: 10px 30px;
   border-radius: 20px;
   border: solid 5px white;
-  background-image: url(./container/img/certificates/asses.jpeg);
+  background-image: url(./container/img/certificates/java\ fullstack.png);
   cursor: pointer;
 }
 #c10:hover{
+  border: solid black 5px;
+}
+#c11{
+  width: 20%;
+  padding: 8%;
+  background-size: cover;
+  margin: 10px 30px;
+  border-radius: 20px;
+  border: solid 5px white;
+  background-image: url(./container/img/certificates/asses.jpeg);
+  cursor: pointer;
+}
+#c11:hover{
   border: solid black 5px;
 }
 /*certificate end*/
