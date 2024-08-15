@@ -103,6 +103,19 @@ nav ul li:hover{
 #fa:hover{
   color: aqua;
 }
+#hb2{
+  width: 12%;
+  margin-left: -19.5%;
+  margin-top: 1em;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 50px;
+  border: solid ;
+  font-family: 'Times New Roman', Times, serif;
+}
+#hb2:hover{
+  border: dotted grey;
+}
 #hb1{
   width: 50%;
   margin-left: 80px;
@@ -310,7 +323,7 @@ nav ul li:hover{
 
 /*about start*/
 .img2{
-  width: 32%;
+  width: 30%;
   border-radius: 50px;
   margin-left: 15px;
   margin-top: 25px;
@@ -321,14 +334,14 @@ nav ul li:hover{
 }
 .des{
   float: inline-start;
-  width: 60%;
+  width: 58%;
   font-size: 30px;
   margin-left: 20px;
   margin-top: 20px;
   border-radius: 50px;
   border: solid greenyellow 1px;
   background-image:linear-gradient(180deg,black,darkblue);
-  padding: 20px 30px;
+  padding: 2px 17px;
   font-family:'Times New Roman', Times, serif;
   color:grey;
 }
@@ -347,7 +360,7 @@ nav ul li:hover{
 
 /*Skills start*/
 #front{
-  margin: 5px 20px;
+  margin: 5px 10px;
   width: 50%;
   float: inline-start;
   text-align: center;

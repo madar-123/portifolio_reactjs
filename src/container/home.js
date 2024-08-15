@@ -8,6 +8,8 @@ function home(){
     return(
         <div>
      <img src={im} className="img1" />
+     <a href="https://wa.me/918897711970?text=hello"><button id="hb2">Hire Me</button></a>
+     
      <div id="info">
         <h1 id="Iam">I'M</h1>
      <h1 id="h1">PATAN</h1>
