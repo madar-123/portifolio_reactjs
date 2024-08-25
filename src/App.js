@@ -29,7 +29,6 @@ function App() {
  <Route path="/project" element={<Project/>} />
  <Route path="/skills" element={<Skills/>} />
  </Routes>
- 
  </Router>
  );
 }
