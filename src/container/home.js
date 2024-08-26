@@ -20,7 +20,7 @@ function home(){
      <a href="https://www.instagram.com/m_a_d_a_r_vali/?hl=en"><IoLogoInstagram id="in"/></a>
      <a href="https://www.facebook.com/madar.vali.96930"><FaFacebookF id="fa"/></a>
      </div>
-     <a href="https://drive.google.com/file/d/1ePpsFKee3zCOXEJwD1b9MCB6pxysgOca/view?usp=drive_link" ><button id="hb1">Download CV</button></a>
+     <a href="https://drive.google.com/file/d/1buAeta4_fx_6T1AnjkRsq-WzvmIsLwcB/view?usp=sharing" ><button id="hb1">Download CV</button></a>
      </div>
      </div>
     );
